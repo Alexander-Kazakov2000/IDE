@@ -2,6 +2,7 @@ import numpy as np
 number = np.random.randint(1, 101)
 count = 0
 
+# comment
 while True:
     count+=1
     user_number = int(input("Введите число:"))
