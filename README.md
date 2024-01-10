@@ -1,2 +1,7 @@
-# sf_data_scince
-SF homework
+# My Data Science projects
+
+From the
+
+## Проекты
+
+* [Проект 0. Игра: Угадай число]
